@@ -6,7 +6,7 @@ For the ISLR, I feel proficient in:
 
 1. General Understanding of Statistical Learning:
 
-I feel proficient in a general understanding of data and statistical learning, which involves around building a function that can be used for prediction and inference based on the given dataset to build a model and draw conclusions. I am comfortable with general concepts such as estimating the function using parametric and non-parametric methods and interpreting model interoperability.
+    I feel proficient in a general understanding of data and statistical learning, which involves around building a function that can be used for prediction and inference based on the given dataset to build a model and draw conclusions. I am comfortable with general concepts such as estimating the function using parametric and non-parametric methods and interpreting model interoperability.
 
 2. Linear Regression
 
