@@ -2,7 +2,7 @@
 
 ## Proficient
 
-For the ISLR, I feel proficient in:
+For the ISL textbook, I feel proficient in:
 
 1. General Understanding of Statistical Learning:
 
@@ -24,19 +24,27 @@ In general, I have good hands-on experience on the above topics due to my past w
 
 ## Aware
 
-For the ISLR:
+For the ISL textbook, I am aware of:
 
 1. Classifiaction
 
+    I am aware of the general concepts of classification and why use classification methods in favor of linear regression for certain problems. I also have a fair understanding of the logistic regression and using various statistics to access them. However, I have limited experience in performing linear and quadratic discriminant analysis and want to learn and research more on the classification techniques.
+
 2. Linear Model Selection and Regularization
 
-I am aware of a general understanding of the relationship between model accuracy and its interoperability. I know that, in general, an increase in the model’s interoperability will decrease its accuracy and vice-versa. However, I often have difficulty finding the balance between accuracy and interoperability. Should we choose a simple linear regression model because its highly interpretable but less accurate or a non-linear model such as neural networks or support vector machines, which sometimes can be more accurate but less interpretable? I also understand multiple linear regression well, but I often have trouble selecting the important variables. I understand that various variables, such as Akaike Information Criterion (AIC), Adjusted R-Square, etc., can help us choose the best model, including forward and backward selection methods. As I continue learning through the class, I want to enhance my knowledge of these concepts and apply them in mini projects.
+    I am aware of a general understanding of the relationship between model accuracy and its interoperability. I know that, in general, an increase in the model’s interoperability will decrease its accuracy and vice-versa. However, I often have difficulty finding the balance between accuracy and interoperability. Should we choose a simple linear regression model because its highly interpretable but less accurate or a non-linear model such as neural networks or support vector machines, which sometimes can be more accurate but less interpretable? I also understand multiple linear regression well, but I often have trouble selecting the important variables. I understand that various variables, such as Akaike Information Criterion (AIC), Adjusted R-Square, etc., can help us choose the best model, including forward and backward selection methods. As I continue learning through the class, I want to enhance my knowledge of these concepts and apply them in mini projects.
 
 3. Support Vector Machines
 
+    I have a basic understanding of support vector machines and worked with fairly simple data sets to build models using it. Also, I have never worked with non-linear decision boundries for the support vector machines and interested in learning more about them.
+
 4. Deep Learning
 
-For the Data Feminism, I am aware of:
+    I have worked with single layer and multilayer neural networks in the past and fairly confident in solving simple problems using it. However, I have limited understanding of convolutional nueral network described in the textbook. 
+
+
+
+For the Data Feminism textbook, I am aware of:
 
 1. Introduction
 
@@ -45,14 +53,12 @@ For the Data Feminism, I am aware of:
 
 ## Unaware
 
-For the ISLR, I am unaware of:
+For the ISL textbook, I am unaware of:
 
-1. Linear Model Selection and Regularization
+1. Multiple Testing
 
-2. Survival Analysis and Censored Data
-
-3. Multiple Testing
+    Type I and Type II Errors, and The Family-Wise ErrorRate seems very interesting to me and want to learn on how they expand upon the concepts of Hypothesis Testing.
 
 For the Data Feminism textbook, I am unaware of:
 
-Before taking STA631, I have some knowledge of ethics, gender, race, and bias from my Ethics and Professionalism class, but I haven’t had a chance to deep dive into these concepts and apply in real life. After reading the first chapter, “The Power Chapter,” and skim reading the table of content of Data Feminism by D’lgnazio and F. Klien, I found the idea of taking a feminist approach to recognize the crucial role of power and bias in shaping the data quite fascinating. I want to understand how to take a feminist approach in data analysis, minimize biases and similar challenges that come with it, and practice data feminism in actual datasets/projects to create a more equitable society and promote transparency, inclusivity, and accountability.
+    Before taking STA631, I have some knowledge of ethics, gender, race, and bias from my Ethics and Professionalism class, but I haven’t had a chance to deep dive into these concepts and apply in real life. After reading the first chapter, “The Power Chapter,” and skim reading the table of content of Data Feminism by D’lgnazio and F. Klien, I found the idea of taking a feminist approach to recognize the crucial role of power and bias in shaping the data quite fascinating. I want to understand how to take a feminist approach in data analysis, minimize biases and similar challenges that come with it, and practice data feminism in actual datasets/projects to create a more equitable society and promote transparency, inclusivity, and accountability.
