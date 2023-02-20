@@ -11,6 +11,7 @@ For the ISL textbook, I feel proficient in:
 2. Linear Regression
 
     I am also confident in the linear regression chapter of the ISL textbook. Likewise, I have hands-on experience working with regression models, estimating the coefficients, assessing the model's accuracy, and interpreting the statistics results using R and Python programming.
+
 3. Resampling Methods
 
     I have solid understanding of resampling methods such as cross-validation and bootstrap methods. I have used boostrap method in one of the mini-project using R and implemented cross-validation in SAS and python to imporve the models accuracy. 
@@ -61,4 +62,4 @@ For the ISL textbook, I am unaware of:
 
 For the Data Feminism textbook, I am unaware of:
 
-    Before taking STA631, I have some knowledge of ethics, gender, race, and bias from my Ethics and Professionalism class, but I haven’t had a chance to deep dive into these concepts and apply in real life. After reading the first chapter, “The Power Chapter,” and skim reading the table of content of Data Feminism by D’lgnazio and F. Klien, I found the idea of taking a feminist approach to recognize the crucial role of power and bias in shaping the data quite fascinating. I want to understand how to take a feminist approach in data analysis, minimize biases and similar challenges that come with it, and practice data feminism in actual datasets/projects to create a more equitable society and promote transparency, inclusivity, and accountability.
+Before taking STA631, I have some knowledge of ethics, gender, race, and bias from my Ethics and Professionalism class, but I haven’t had a chance to deep dive into these concepts and apply in real life. After reading the first chapter, “The Power Chapter,” and skim reading the table of content of Data Feminism by D’lgnazio and F. Klien, I found the idea of taking a feminist approach to recognize the crucial role of power and bias in shaping the data quite fascinating. I want to understand how to take a feminist approach in data analysis, minimize biases and similar challenges that come with it, and practice data feminism in actual datasets/projects to create a more equitable society and promote transparency, inclusivity, and accountability.
